@@ -1,0 +1,8 @@
+node_modules/
+dist/
+.env
+.DS_Store
+
+# Created by the server at runtime
+server/leaderboard.json
+node_modules
